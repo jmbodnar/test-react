@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jmbodnar.github.io/test-react",
   "name": "test-react",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +10,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2",
-    "homepage": "https://jmbodnar.github.io/test-react"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "predeploy": "npm run build",
