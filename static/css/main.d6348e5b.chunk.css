@@ -1,0 +1,2 @@
+:root{--color-white:#fff;--color-black:#333;--color-lightgray:#e6e6e6;--color-gray:#999}body{display:grid;grid-template-rows:auto 1fr auto;min-height:100vh;color:#333;color:var(--color-black)}footer,header,nav{background:#333;min-height:1rem;color:#fff;color:var(--color-white)}.container{width:95%;margin:0 auto}
+/*# sourceMappingURL=main.d6348e5b.chunk.css.map */
