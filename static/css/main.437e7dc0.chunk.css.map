@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/css/header.scss"],"names":[],"mappings":"AAAA,QACE,SAAA,CAEA,gBACE,kBAAA,CACA,UAAA","file":"main.437e7dc0.chunk.css","sourcesContent":[".header {\n  color: red;\n\n  &__button {\n    background: dodgerblue;\n    color: white;\n  }\n}\n"]}
