@@ -1,0 +1,25 @@
+:root {
+  --color-white: hsl(0, 0%, 100%);
+  --color-black: hsl(0, 0%, 20%);
+  --color-lightgray: hsl(0, 0%, 90%);
+  --color-gray: hsl(0, 0%, 60%);
+  
+}
+
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+  color: var(--color-black);
+}
+
+header, footer, nav {
+  background: #333;
+  min-height: 1rem;
+  color: var(--color-white);
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}

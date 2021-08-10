@@ -39,6 +39,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "sanitize.css": "^12.0.1",
+    "sass": "^1.37.0"
   }
 }
